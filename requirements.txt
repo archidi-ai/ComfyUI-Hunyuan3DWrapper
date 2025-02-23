@@ -1,5 +1,5 @@
 trimesh
-diffusers>=0.31.0
+diffusers==0.31.0
 accelerate
 huggingface_hub
 einops
