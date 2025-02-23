@@ -2,7 +2,7 @@
 #git+https://github.com/EasternJournalist/utils3d.git#egg=utils3d
 utils3d
 #nvdiffrast
-pip install git+https://github.com/NVlabs/nvdiffrast.git
+git+https://github.com/NVlabs/nvdiffrast.git
 #for quad remeshing node
 pynanoinstantmeshes
 #for fast decimation node
